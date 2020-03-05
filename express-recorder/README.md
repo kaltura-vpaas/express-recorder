@@ -94,3 +94,10 @@ These are actions that can be performed on the recorder component:
 - ``cancelUpload()`` cancels an ongoing upload.
 - ``addEventListener(type: string, listener: (event: ExpressRecorderEvent) => void)`` allows listening to recorder events.
 - ``removeEventListener(type: string, callback: (event: ExpressRecorderEvent) => void)`` stops listening to recorder events.
+
+
+## Sample Code 
+
+The sample code for embedding a recorder can be found [here](https://github.com/tzubeli/vpaas-sample-code/blob/master/express-recorder/express-recorder.php).
+
+For any questions or comments, email us at vpaas@kaltura.com
