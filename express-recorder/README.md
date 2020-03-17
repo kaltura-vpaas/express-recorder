@@ -32,6 +32,7 @@ You'll need three bits of code to embed the express recorder:
 ```
 3. The script that contains the "props" or values that are being passed to the recorder. Make sure that the ID matches the ID of the div in #2 (ie. `recorder`). 
 
+```
 <script type="text/javascript">
     var component = Kaltura.ExpressRecorder.create('recorder', {
         "ks": "<KALTURA SESSION>",
@@ -44,6 +45,7 @@ You'll need three bits of code to embed the express recorder:
         "uiConfId": "<PLAYER ID>"
     });
 </script>
+```
 
 This is the complete list of values that can be used in the recorder properties: 
 
