@@ -8,7 +8,7 @@ The Recorder Express features an iconic big red button. Once clicked, there is a
 
 ![](express-recorder-2.png)
 
-This guide will show you how to embed the component in your webpage. The complete sample code can be found [here](https://github.com/tzubeli/vpaas-sample-code/blob/master/express-recorder.php)
+This guide will show you how to embed the component in your webpage. The complete sample code can be found [here](https://github.com/kaltura-vpaas/express-recorder/blob/master/express-recorder.php)
 
 ## Setting Up 
 
@@ -100,6 +100,8 @@ These are actions that can be performed on the recorder component:
 
 ## Sample Code 
 
-The sample code for embedding a recorder can be found [here](https://github.com/tzubeli/vpaas-sample-code/blob/master/express-recorder/express-recorder.php).
+Sample code for embedding a recorder can be found:
+- in the current repository [here](https://github.com/kaltura-vpaas/express-recorder/blob/master/express-recorder.php)
+- php, react and other [samples](https://github.com/kaltura/express-recorder/tree/master/examples)
 
 For any questions or comments, email us at vpaas@kaltura.com
